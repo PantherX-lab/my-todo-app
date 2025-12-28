@@ -28,6 +28,4 @@ st.text_input(label="Add a new todo", placeholder="Add new todo...",
 
 print("hello")
 
-st.session_state
-
 
